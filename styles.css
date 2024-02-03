@@ -1,0 +1,53 @@
+/* Add your custom styles here */
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.teacher-section {
+    text-align: center;
+}
+
+.teacher-image {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.container {
+    background-color: beige;
+    color: brown;
+    box-sizing: border-box;
+}
+
+.rounded-container {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.shadow-container {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    
+}
+/* .flex-container {
+    display: flex;
+    height: 200px;
+    flex-direction: row;
+    background-color: yellowgreen;
+    align-items: center;
+} */
+DIV{
+
+        display: flex;
+        flex-direction: row;
+        background-color: yellowgreen;
+        justify-content: center;
+}
